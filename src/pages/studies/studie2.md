@@ -1,8 +1,8 @@
 ---
-title: Advanced SWAT Tactics and Leadership Training
-location: FBI Academy
+title: Master of Business Administration
+location: Dr. Janaki Ammal Campus
 url: http://ni.sb/mehanad
-institute: FBI Academy
-date: 1975-1980
-tags: ["Conflict Resolution", "Strategic Planning", "Risk Assessment", "Firearms Training", "Emergency Response"]
+institute: Kannur University
+date: 2019-2021
+tags: ["Marketing", "Finance"]
 ---

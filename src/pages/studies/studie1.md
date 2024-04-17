@@ -1,15 +1,13 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
-url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
+title: Ph.D.
+location: Kochi, Kerala
+url: https://cusat.ac.in/
+institute: Cochin University
+date: 2023-Present
 tags:
   [
-    "Criminal Justice",
-    "Law Enforcement",
-    "Legal Studies",
-    "Public Safety",
-    "Court System",
+    "Marketing",
+    "Consumer Behavior",
+    "Management Studies",
   ]
 ---
