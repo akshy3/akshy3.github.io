@@ -1,10 +1,10 @@
 ---
 title: about
-name: "Cezar Kelso"
-designation: "Senior Detective"
-location: Los Angeles, CA 90001
-pronouns: "he/him/el"
-website: "http://tafutza.hn/kos"
+name: "Akshay Ashok"
+designation: "Research Scholar"
+location: Kochi, India
+pronouns: "he/him"
+website: "http://akshy3.github.io"
 ---
 
-Highly skilled and experienced law enforcement professional with over two decades of service in various specialized units. Adept at conducting complex investigations, coordinating tactical operations, and providing leadership in high-pressure situations. Known for exceptional problem-solving abilities, strategic thinking, and dedication to upholding the law. Seeking opportunities to leverage expertise in a challenging environment where I can continue to make a meaningful impact.
+I'm Akshay, a PhD candidate in Marketing at Cochin University of Science and Technology (CUSAT), with a strong foundation in Computer Applications and Business Administration. My academic journey has fueled my passion for understanding consumer behavior and leveraging digital strategies. Combining analytical thinking with creative solutions, I'm dedicated to exploring innovative marketing approaches that drive impactful business outcomes. Outside of academia, I'm an avid movie enthusiast with interests in programming and staying updated with the latest industry trends. Let's connect and explore opportunities to collaborate!
